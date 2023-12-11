@@ -13,6 +13,6 @@ Hereby we demonstrate wRMSD estimation and corresponding analysis with a sample 
      
 - Application of wRMSD 
    - Conformational response to ligand binding of TMPRSS2, a protease involved in SARS-CoV-2 
-     infection: Insights through computational modeling (10.1002/prot.26548)
+     infection: Insights through computational modeling ([10.1002/prot.26548](https://pubmed.ncbi.nlm.nih.gov/37409524/)https://pubmed.ncbi.nlm.nih.gov/37409524/)
 
 
