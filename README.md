@@ -15,6 +15,16 @@ Hereby we demonstrate wRMSD estimation and corresponding analysis with a sample 
    - Conformational response to ligand binding of TMPRSS2, a protease involved in SARS-CoV-2 
      infection: Insights through computational modeling ([10.1002/prot.26548](https://pubmed.ncbi.nlm.nih.gov/37409524/)https://pubmed.ncbi.nlm.nih.gov/37409524/)
 
+<<<<<<< HEAD
+#### Packages used
+- matplotlib: 3.8.2
+- nglview   : 3.0.8
+- numpy     : 1.26.2
+- pandas    : 2.1.4
+- MDAnalysis: 2.6.1
+- seaborn   : 0.13.0
+
+=======
 #### - Packages used
 - matplotlib: 3.6.3
 - MDAnalysis: 2.4.2
@@ -22,3 +32,4 @@ Hereby we demonstrate wRMSD estimation and corresponding analysis with a sample 
 - nglview   : 3.0.3
 - seaborn   : 0.12.2
 - numpy     : 1.22.4
+>>>>>>> origin
