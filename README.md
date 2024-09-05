@@ -16,9 +16,9 @@ Hereby we demonstrate wRMSD estimation and corresponding analysis with a sample 
      infection: Insights through computational modeling (https://pubmed.ncbi.nlm.nih.gov/37409524/)
 
 #### Packages used
-- matplotlib: 3.8.2
-- nglview   : 3.0.8
-- numpy     : 1.26.2
+- matplotlib: 3.9.1
+- nglview   : 3.1.1
+- numpy     : 1.26.3
 - pandas    : 2.1.4
-- MDAnalysis: 2.6.1
-- seaborn   : 0.13.0
+- MDAnalysis: 2.7.0
+- seaborn   : 0.13.1
